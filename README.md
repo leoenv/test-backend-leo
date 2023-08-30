@@ -15,14 +15,14 @@
 ## Após instalação do Ruby, seguir passos abaixo: 
 1. Para instalação da gem bundler, abrir o terminal e executar o comando "gem install blunder"; 
 2. Após instalar a gem blunder, executar o comando "blunder install" para instalar todas as gem's listadas no arquivo Gemfile. Isso fará com que as tecnologias abaixo (Cucumber, HTTParty e Rspec) sejam instaladas.
-
-## Caso o passo dois acima não funcione e você receba um erro do tipo: (O termo 'blunder' não é reconhedio como nome de cmdlet.....)
-1. Execute o comando "gem install sqlite3"
-2. E em seguida execute o comando "bundle install"
-
+   
 - Cucumber;
 - HTTParty;
 - Rspec.
+
+## Caso o passo dois acima não funcione e você receba um erro do tipo: (O termo 'blunder' não é reconhecido como nome de cmdlet.....)
+1. Execute o comando "gem install sqlite3"
+2. E em seguida execute o comando "bundle install"
 
 ## Arquitetura:
 
